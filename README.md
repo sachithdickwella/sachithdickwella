@@ -1,16 +1,13 @@
-### Hi, I'm Sachith, 👋
+### Hi, I'm Sachith, 👋🧑‍💻
 
-<!--
-**sachithdickwella/sachithdickwella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with invaluable experience who is passionate about open-source software solutions and a computervision enthusiast. Some technologies I enjoy working with include, Java, Kotlin, Spring (Cloud stack) and Python with Deep Learning. 
 
-Here are some ideas to get you started:
+📫 How to reach me: <sachith_prasanna@live.com>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+
+  * Sharing updates on [LinkedIn](https://www.linkedin.com/in/sachithdickwella/) 👦
+  * Sharing ideas and interests on [Medium](https://medium.com/@sachith.prasanna90) ✍️💻
+  * Discuss technology on [StackOverflow](https://stackoverflow.com/users/2028671/sachith-dickwella) 🧑‍🤝‍
+  * Find me on [Twitter](https://twitter.com/sachitpd) 🙊
+  

@@ -1,13 +1,15 @@
-### Hi, I'm Sachith, 👋🧑‍💻
+### Hey there! 👋🧑‍💻
 
-Welcome to my GitHub repository!🚀 I'm a software engineer who is passionate about open-source technologies and development. I'm also a AI and Computer vision enthusiast who's mastering the craft with research and development. My area of interest lies on microservices development and when it comes to it, some technologies I enjoy working with include, Java, Kotlin, Spring (Cloud stack) and as message brokers RabbitMQ and Kafka. AWS, Azure and GCP are my cloud platforms of choice depending on the needs.
+Welcome to my GitHub world! 🚀 I'm Sachith, a software engineer with a passion for open-source tech and development. I'm also diving deep into the realms of AI and Computer Vision through research and development. My playground is microservices development, and I have a blast with Java, Kotlin, Spring (especially the Cloud stack), and messaging tech like RabbitMQ and Kafka. When it comes to the cloud, I'm all in with AWS, Azure, and GCP, depending on the job.
 
-Currently enrolled as student of University of Liverpool studying for MSc in Artificial Intelligence.
+Currently, I'm a student at the University of Liverpool, pursuing an MSc in Artificial Intelligence and explore the realm of Robotics. 📚
 
-#### Find me around the web 🌎:
+### Catch me on the web 🌎:
 
-  * Sharing updates on [LinkedIn](https://www.linkedin.com/in/sachithdickwella/) 👦
-  * Sharing ideas and interests on [Medium](https://medium.com/@sachith.prasanna90) ✍️💻
-  * Discuss technology on [StackOverflow](https://stackoverflow.com/users/2028671/sachith-dickwella) 🧑‍🤝‍
-  * Find me on [Twitter](https://twitter.com/sachithpd) 🙊
+- I share updates on [LinkedIn](https://www.linkedin.com/in/sachithdickwella/) 👦
+- My thoughts and interests take shape on [Medium](https://medium.com/@sachith.prasanna90) ✍️💻
+- For tech talk, you can find me on [StackOverflow](https://stackoverflow.com/users/2028671/sachith-dickwella) 🧑‍🤝‍
+- And of course, feel free to follow me on [X](https://twitter.com/sachithpd) 🙊
+
+Let's explore the world of coding together! 🌟
   

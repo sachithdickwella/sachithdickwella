@@ -1,8 +1,8 @@
 ### Hey there! 👋🧑‍💻
 
-Welcome to my GitHub world! 🚀 I'm Sachith, a software engineer with a passion for open-source tech and development. I'm also diving deep into the realms of AI, Computer Vision and Robotics through research and development. My playground is microservices development, and I have a blast with Java, Kotlin, Spring (especially the Cloud stack), and messaging techs like RabbitMQ and Kafka. Regarding the cloud, I'm all in with AWS and GCP.
+Welcome to my GitHub world! 🚀 I'm Sachith, a software engineer with a passion for open-source tech and development. I'm also diving deep into the realms of AI, Computer Vision and Robotics through research and development. My playground is microservices development, and I have a blast with Java, C++, Python, Kotlin, Spring (especially the Cloud stack), and messaging techs like RabbitMQ and Kafka. Regarding the cloud, I'm all in with AWS and GCP.
 
-Currently, I'm a student at the University of Liverpool, pursuing an MSc in Artificial Intelligence and explore the realm of AI and Robotics. 📚
+I am currently a student at the University of Liverpool, pursuing an MSc in Artificial Intelligence. My studies focus on exploring the realms of AI and Robotics. 📚
 
 ### Catch me on the web 🌎:
 

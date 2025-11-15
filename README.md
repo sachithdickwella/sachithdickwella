@@ -11,7 +11,7 @@ My background spans aerospace systems, AI autonomy, robotics, and large-scale ba
 - **C++/PyTorch** for neural control models and algorithmic research  
 - **AWS & GCP** for cloud compute, experimentation pipelines, and data flows  
 - **RabbitMQ & Kafka** for high-throughput asynchronous messaging  
-- **ONNX + NVIDIA Jetson** for real-time edge-AI deployments  
+- **ONNX/LibTorch + NVIDIA Jetson** for real-time edge-AI deployments  
 
 I’ve completed my **MSc in Artificial Intelligence (University of Liverpool)**, with research centered on deep-learning-driven flight control, hybrid controllers, and autonomous behaviour modelling in digital-twin simulation environments.
 

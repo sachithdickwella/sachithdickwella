@@ -21,7 +21,10 @@ My long-term work sits at the intersection of aerospace engineering, AI autonomy
 
 ## Connect 🌐
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/sachithdickwella/  
-- 📝 **Medium:** https://medium.com/@sachith.prasanna90  
-- 💬 **StackOverflow:** https://stackoverflow.com/users/2028671/sachith-dickwella  
-- 🐦 **X:** https://twitter.com/sachithpd
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="22" alt="LinkedIn" /> **LinkedIn**](https://www.linkedin.com/in/sachithdickwella/)  
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="22" alt="Medium" /> **Medium**](https://medium.com/@sachith.prasanna90)  
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" width="22" alt="StackOverflow" /> **StackOverflow**](https://stackoverflow.com/users/2028671/sachith-dickwella)  
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="22" alt="X" /> **X**](https://twitter.com/sachithpd)

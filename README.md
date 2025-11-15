@@ -1,5 +1,5 @@
 ## Hey, I’m Sachith 👋  
-**Founder & Chief Engineer — Inertion Dynamics Systems Inc.**
+**Founder & Chief Engineer - Inertion Dynamics Systems Inc.**
 
 Welcome to my GitHub. This space hosts my **personal open-source projects**, experiments, and technical explorations. All company work for Inertion Dynamics remains private and internal.
 
@@ -15,7 +15,7 @@ My background spans aerospace systems, AI autonomy, robotics, and large-scale ba
 
 I’ve completed my **MSc in Artificial Intelligence (University of Liverpool)**, with research centered on deep-learning-driven flight control, hybrid controllers, and autonomous behaviour modelling in digital-twin simulation environments.
 
-My long-term work sits at the intersection of aerospace engineering, AI autonomy, and robotics — designing the next generation of autonomous UAV systems.
+My long-term work sits at the intersection of aerospace engineering, AI autonomy, and robotics designing the next generation of autonomous UAV systems.
 
 ---
 
